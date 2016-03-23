@@ -1,0 +1,8 @@
+|------------------------------------------------
+| Shortcuts
+|------------------------------------------------
+| Sop    | System.out.print
+| mmain  | public static void main(String[] args)
+|
+| ...more coming soon
+|
